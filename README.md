@@ -18,7 +18,7 @@
     Aprendo desenvolvimento de software desde janeiro de 2020, quando conheci a linguagem python, logo comprei um arduino e vi o meu código ganhar vida através de sensores e atuadores, e me peguei num caminho sem volta, realmente é a coisa mais interessante e apaixonante que já vi na minha vida.
   </p>
   <p>
-    Durante minha trajetória, Pude ter uma visão geral das tecnologias PHP, MySql, Nodejs, c# para desenvolvimento de games, JavaScript, HTML5 e CSS. Mas decidi aprofundar em Java, levando em conta essa visão geral que pude ter de várias tecnologias tenho agora a clareza de onde quero chegar. 
+    Durante minha trajetória, Pude ter uma visão geral das tecnologias PHP, MySql, Nodejs, c# para desenvolvimento de games, JavaScript, HTML5 e CSS. Mas decidi aprofundar em Java, levando em conta essa visão geral que pude ter de várias tecnologias, tenho agora a clareza de onde quero chegar. 
   </p>
     <p>
      Em Busca da Senioridade em JAVA, com muito trabalho duro.

@@ -1,17 +1,49 @@
-<h1 align="center">A passionate about technology from Brazil</h1>
+# [Antônio Lima](https://www.linkedin.com/in/ant%C3%B4nio-j%C3%BAnior-55086320b/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/antônio-júnior-55086320b" target="blank"><li>Linkedin</li> </a>
-</p>
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://github.com/Antonio-Lima-Jr/curso-desenvolvimento-avancado-java)
+[![Php Badge](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/Antonio-Lima-Jr/Site-PHP)
+[![Csharp Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/Antonio-Lima-Jr/Game-u-Space)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-lima-jr&show_icons=true&locale=en&layout=compact" alt="antonio-lima-jr" />
+### Hi there 👋
+
+<div>  
+
+  <img align="right" src="https://media.tenor.com/images/4858f43f53f0ae4cc4d9f48ef06ff002/tenor.gif"/>
+  <p>Ola. Meu nome é Antônio Lima.</p>
+
+  <p>
+    Sou estudante de Engenharia de Software no Instituto de Educação Superior de Brasília - IESB.
+  </p>
+  <p>
+    Aprendo desenvolvimento de software desde janeiro de 2020, quando conheci a linguagem python, logo comprei um arduino e vi o meu código ganhar vida através de sensores e atuadores, e me peguei num caminho sem volta, realmente é a coisa mais interessante e apaixonante que já vi na minha vida.
+  </p>
+  <p>
+    Durante minha trajetória, Pude ter uma visão geral das tecnologias PHP, MySql, Nodejs, c# para desenvolvimento de games, JavaScript, HTML5 e CSS. Mas decidi aprofundar em Java, levando em conta essa visão geral que pude ter de várias tecnologias tenho agora a clareza de onde quero chegar. 
+  </p>
+    <p>
+     Em Busca da Senioridade em JAVA, com muito trabalho duro.
+  </p>
+  </br>
+  </br>
+</div>
+
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&link=https://github.com/Antonio-Lima-Jr)](https://github.com/Antonio-Lima-Jr/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-j%C3%BAnior-55086320b/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:antonio.df.013@gmail.com)](mailto:antonio.df.013@gmail.com/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AntnioJ89058163)](https://twitter.com/AntnioJ89058163)
+[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-363D44?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/antoniopfljunior)](https://dev.to/antoniopfljunior)
+
+<details open>
+    <summary>⚙ <b>GitHub Analytics</b>: </summary>
+    <br>
+   <p align="center">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antonio-lima-jr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="antonio-lima-jr" />
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antonio-lima-jr&show_icons=true&locale=en" alt="antonio-lima-jr" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonio-lima-jr&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true" alt="antonio-lima-jr" />
 </p>
+</details>
 
 <h2 align="center">Tools Front-end:</h2>
 
@@ -141,4 +173,3 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
-

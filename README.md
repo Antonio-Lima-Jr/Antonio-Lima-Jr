@@ -1,4 +1,4 @@
-# [Antônio Lima](https://www.linkedin.com/in/ant%C3%B4nio-j%C3%BAnior-55086320b/)
+# [Antônio Lima](https://www.linkedin.com/in/antonio-lima-jr/)
 
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://github.com/Antonio-Lima-Jr/curso-desenvolvimento-avancado-java)
 [![Php Badge](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/Antonio-Lima-Jr/Site-PHP)

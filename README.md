@@ -15,16 +15,12 @@
     Sou estudante de Engenharia de Software no Instituto de Educação Superior de Brasília - IESB.
   </p>
   <p>
-    Aprendo desenvolvimento de software desde janeiro de 2020, quando conheci a linguagem python, logo comprei um arduino e vi o meu código ganhar vida através de sensores e atuadores, e me peguei num caminho sem volta, realmente é a coisa mais interessante e apaixonante que já vi na minha vida.
+    No início conheci a linguagem python e logo comprei um arduino e pude ver o meu código em c++ ganhar vida através de sensores e atuadores, e me peguei num caminho sem volta, realmente é a coisa mais interessante e apaixonante que já vi na vida.
   </p>
   <p>
-    Durante minha trajetória, Pude ter uma visão geral das tecnologias PHP, MySql, Nodejs, c# para desenvolvimento de games, JavaScript, HTML5 e CSS. Mas decidi aprofundar em Java, levando em conta essa visão geral que pude ter de várias tecnologias, tenho agora a clareza de onde quero chegar. 
+    Através de cursos FullStack(DankiCode - PHP,Jdevtreinamento - JAVA) sem perceber meus estudos se guiaram para uma formação em T, onde tenho domínio do front-end com algumas tecnologias como HTML, CSS, Javascript, Vue e React, por conta desse início em que naveguei por tecnologias de front, tenho a clareza de como o mesmo se conecta com o back, que é minha decisão de especialização, onde estudo Java Web(JDBC, JSP, Spring MVC, JSF, RESTful, Web Services(JSON, SOAP), SQL(MySql, Postgres), noSql(MongoDB)).
   </p>
-    <p>
-     Em Busca da Senioridade em JAVA, com muito trabalho.
-  </p>
-  </br>
-  </br>
+
 </div>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&link=https://github.com/Antonio-Lima-Jr)](https://github.com/Antonio-Lima-Jr/)

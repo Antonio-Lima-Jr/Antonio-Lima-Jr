@@ -21,7 +21,7 @@
     Durante minha trajetória, Pude ter uma visão geral das tecnologias PHP, MySql, Nodejs, c# para desenvolvimento de games, JavaScript, HTML5 e CSS. Mas decidi aprofundar em Java, levando em conta essa visão geral que pude ter de várias tecnologias, tenho agora a clareza de onde quero chegar. 
   </p>
     <p>
-     Em Busca da Senioridade em JAVA, com muito trabalho duro.
+     Em Busca da Senioridade em JAVA, com muito trabalho.
   </p>
   </br>
   </br>

@@ -15,10 +15,7 @@
     Sou estudante de Engenharia de Software no Instituto de Educação Superior de Brasília - IESB.
   </p>
   <p>
-    No início conheci a linguagem python e logo comprei um arduino e pude ver o meu código em c++ ganhar vida através de sensores e atuadores, e me peguei num caminho sem volta, realmente é a coisa mais interessante e apaixonante que já vi na vida.
-  </p>
-  <p>
-    Através de cursos FullStack(DankiCode - PHP,Jdevtreinamento - JAVA) sem perceber meus estudos se guiaram para uma formação em T, onde tenho domínio do front-end com algumas tecnologias como HTML, CSS, Javascript, Vue e React, por conta desse início em que naveguei por tecnologias de front, tenho a clareza de como o mesmo se conecta com o back, que é minha decisão de especialização, onde estudo Java Web(JDBC, JSP, Spring MVC, JSF, RESTful, Web Services(JSON, SOAP), SQL(MySql, Postgres), noSql(MongoDB)).
+    Minha prioridade atual é a minha evolução profissional, focado em uma stack voltada para o desenvolvimento web: Java, Spring, Angular, Javascript, Agile( Scrum ), pré-processadores CSS com Sass, Less e Scss, utilizo também Shell Script para automatizar ambiente Linux
   </p>
 
 </div>

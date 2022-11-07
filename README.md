@@ -1,9 +1,11 @@
 # [Antônio Lima](https://www.linkedin.com/in/antonio-lima-jr/)
 
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=OpenJDK&logoColor=black&color=red)](https://github.com/Antonio-Lima-Jr/curso-desenvolvimento-avancado-java)
-[![Angular Badge](https://img.shields.io/badge/Angular-ED8B00?style=flat&logo=angular&logoColor=black&color=red)](https://github.com/Antonio-Lima-Jr/curso-desenvolvimento-avancado-java)
-
-
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=OpenJDK&logoColor=white&color=orange&labelColor=black)]()
+[![Kotlin Badge](https://img.shields.io/badge/Kotlin-ED8B00?style=flat&logo=Kotlin&logoColor=white&color=orange&labelColor=black)]()
+[![Angular Badge](https://img.shields.io/badge/Angular-ED8B00?style=flat&logo=angular&logoColor=white&color=red&labelColor=black)]()
+[![Javascript Badge](https://img.shields.io/badge/Javascript-ED8B00?style=flat&logo=Javascript&logoColor=white&color=red&labelColor=black)]()
+[![Aws Badge](https://img.shields.io/badge/AWS-ED8B00?style=flat&logo=AmazonAWS&logoColor=white&color=green&labelColor=black)]()
+[![Heroku Badge](https://img.shields.io/badge/Heroku-ED8B00?style=flat&logo=Heroku&logoColor=white&color=purple&labelColor=black)]()
 ### Hi there 👋
 
 <div>  

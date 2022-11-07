@@ -1,8 +1,8 @@
 # [Antônio Lima](https://www.linkedin.com/in/antonio-lima-jr/)
 
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://github.com/Antonio-Lima-Jr/curso-desenvolvimento-avancado-java)
-[![Php Badge](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/Antonio-Lima-Jr/Site-PHP)
-[![Csharp Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/Antonio-Lima-Jr/Game-u-Space)
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=OpenJDK&logoColor=black&color=red)](https://github.com/Antonio-Lima-Jr/curso-desenvolvimento-avancado-java)
+[![Angular Badge](https://img.shields.io/badge/Angular-ED8B00?style=flat&logo=angular&logoColor=black&color=red)](https://github.com/Antonio-Lima-Jr/curso-desenvolvimento-avancado-java)
+
 
 ### Hi there 👋
 
@@ -15,7 +15,7 @@
     Sou estudante de Engenharia de Software no Instituto de Educação Superior de Brasília - IESB.
   </p>
   <p>
-    Minha prioridade atual é a minha evolução profissional, focado em uma stack voltada para o desenvolvimento web: Java, Spring, Angular, Javascript, Agile( Scrum ), pré-processadores CSS com Sass, Less e Scss, utilizo também Shell Script para automatizar ambiente Linux
+    Minha prioridade atual é a minha evolução profissional, focado em uma stack voltada para o desenvolvimento web: Java, Spring, Angular, Javascript, Agile( Scrum ), pré-processadores CSS com Sass, Less e Scss, utilizo também Shell Script para automatizar ambiente Linux, devops (CI e CD)
   </p>
 
 </div>

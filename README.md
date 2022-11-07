@@ -8,18 +8,15 @@
 [![Heroku Badge](https://img.shields.io/badge/Heroku-ED8B00?style=flat&logo=Heroku&logoColor=white&color=purple&labelColor=black)]()
 ### Hi there 👋
 
-<div>  
-
+<div>
   <img align="right" src="https://media.tenor.com/images/4858f43f53f0ae4cc4d9f48ef06ff002/tenor.gif"/>
   <p>Ola. Meu nome é Antônio Lima.</p>
-
   <p>
     Sou estudante de Engenharia de Software no Instituto de Educação Superior de Brasília - IESB.
   </p>
   <p>
     Minha prioridade atual é a minha evolução profissional, focado em uma stack voltada para o desenvolvimento web: Java, Spring, Angular, Javascript, Agile( Scrum ), pré-processadores CSS com Sass, Less e Scss, utilizo também Shell Script para automatizar ambiente Linux, devops (CI e CD)
   </p>
-
 </div>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&link=https://github.com/Antonio-Lima-Jr)](https://github.com/Antonio-Lima-Jr/)
@@ -31,17 +28,13 @@
 <details open>
     <summary>⚙ <b>GitHub Analytics</b>: </summary>
     <br>
-   <p align="center">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antonio-lima-jr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="antonio-lima-jr" />
-</p>
-
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonio-lima-jr&layout=compact&langs_count=15&hide=HLSL&theme=tokyonight&include_all_commits=true&count_private=true" alt="antonio-lima-jr" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=antonio-lima-jr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="antonio-lima-jr" />
+    <img  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonio-lima-jr&layout=compact&langs_count=15&hide=HLSL&theme=tokyonight&include_all_commits=true&count_private=true" alt="antonio-lima-jr" />
+  </p>
 </details>
 
 <h2 align="center">Tools Front-end:</h2>
-
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -58,13 +51,12 @@
   <a href="https://angular.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
   </a>
-
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-<h2 align="center">Tools Back-end:</h2>
 
+<h2 align="center">Tools Back-end:</h2>
 <p align="center">
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -84,18 +76,16 @@
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
   </a>
-
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-
 </p>
+
 <h2 align="center">Tools DataBase:</h2>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -115,5 +105,4 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-
 </p>

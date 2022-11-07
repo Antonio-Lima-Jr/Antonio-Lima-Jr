@@ -9,8 +9,9 @@
 ### Hi there 👋
 
 <div>
-  <img align="right" src="https://media.tenor.com/images/4858f43f53f0ae4cc4d9f48ef06ff002/tenor.gif"/>
+  <img align="right" height="200" src="https://media.tenor.com/images/4858f43f53f0ae4cc4d9f48ef06ff002/tenor.gif"/>
   <p>Ola. Meu nome é Antônio Lima.</p>
+  
   <p>
     Sou estudante de Engenharia de Software no Instituto de Educação Superior de Brasília - IESB.
   </p>

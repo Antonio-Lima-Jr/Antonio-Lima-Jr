@@ -13,10 +13,13 @@
   <p>Ola. Meu nome é Antônio Lima.</p>
   
   <p>
-    Sou estudante de Engenharia de Software no Instituto de Educação Superior de Brasília - IESB.
+    Sou desenvolvedor de software, formado em Engenharia de Software, com experiência em Clean Code, Clean Arquiteture, Java, Python, Node.js, TypeScript, Angular, Shell Script, bancos de dados e desenvolvimento Android nativo.
   </p>
   <p>
-    Minha prioridade atual é a minha evolução profissional, focado em uma stack voltada para o desenvolvimento web: Java, Spring, Angular, Javascript, Agile( Scrum ), pré-processadores CSS com Sass, Less e Scss, utilizo também Shell Script para automatizar ambiente Linux, devops (CI e CD)
+    Atuo em Pesquisa e Desenvolvimento (P&D), participando de projetos de inovação que envolvem diferentes tecnologias, arquiteturas e desafios técnicos. Minha experiência abrange diferentes etapas do desenvolvimento de software, desde a análise de requisitos e definição de soluções até a implementação e integração de sistemas.
+  </p>
+  <p>
+    Tenho um perfil T-shaped, combinando uma base sólida em engenharia de software com versatilidade para atuar em diferentes áreas e com facilidade para aprender novas metodologias e tecnologias.
   </p>
 </div>
 
